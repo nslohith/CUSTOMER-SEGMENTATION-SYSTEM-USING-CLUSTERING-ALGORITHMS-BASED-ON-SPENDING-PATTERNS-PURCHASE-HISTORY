@@ -1,0 +1,2 @@
+# CUSTOMER-SEGMENTATION-SYSTEM-USING-CLUSTERING-ALGORITHMS-BASED-ON-SPENDING-PATTERNS-PURCHASE-HISTORY
+Understanding customer behavior is essential for businesses to improve marketing strategies, increase customer satisfaction, and maximize profitability. Traditional customer segmentation methods rely on manual analysis and predefined categories, making it difficult to identify meaningful customer groups from large datasets
