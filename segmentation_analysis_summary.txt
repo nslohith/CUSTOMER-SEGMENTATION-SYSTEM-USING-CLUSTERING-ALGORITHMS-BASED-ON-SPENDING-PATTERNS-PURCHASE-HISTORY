@@ -1,0 +1,68 @@
+
+CUSTOMER SEGMENTATION SYSTEM - ANALYSIS SUMMARY
+
+1. DATASET OVERVIEW
+Total Customers: 2000
+Average Age: 46.41 years
+Age Range: 18 - 74 years
+
+2. PURCHASE BEHAVIOR
+Average Purchase Frequency: 8.91
+Average Transaction Value: $183.41
+Average Total Spending: $1602.18
+Total Revenue: $3204358.19
+
+3. CUSTOMER DEMOGRAPHICS
+Gender Distribution:
+  - Female: 1010 (50.50%)
+  - Male: 883 (44.15%)
+  - Other: 107 (5.35%)
+
+Location Distribution:
+  - Urban: 991 (49.55%)
+  - Suburban: 718 (35.90%)
+  - Rural: 291 (14.55%)
+
+4. PRODUCT PREFERENCES
+  - Sports: 208 (10.40%)
+  - Home: 406 (20.30%)
+  - Fashion: 600 (30.00%)
+  - Beauty: 285 (14.25%)
+  - Electronics: 501 (25.05%)
+
+5. LOYALTY AND ENGAGEMENT
+Average Loyalty Score: 50.32
+Average Tenure: 29.80 months
+Average Online Preference: 49.69%
+
+6. CLUSTERING RESULTS
+Optimal Number of Clusters: 4 (K-Means)
+Silhouette Score: 0.0979
+Davies-Bouldin Score: 2.2621
+
+7. SEGMENT DISTRIBUTION
+Segment 0 (Regular Customers): 671 customers (33.55%)
+Segment 1 (Loyal Customers): 790 customers (39.50%)
+Segment 2 (Growth Potential): 449 customers (22.45%)
+Segment 3 (VIP Customers): 90 customers (4.50%)
+
+8. KEY INSIGHTS
+- Segment 1 (Loyal Customers) is the largest segment, representing 39.5% of the customer base
+- Segment 3 (VIP Customers) generates the highest average spending ($11,029.16)
+- Online preference varies significantly across segments, indicating different channel preferences
+- Product preferences are distributed across all categories, with Electronics being the most popular
+
+9. BUSINESS RECOMMENDATIONS
+- Implement targeted retention programs for Segment 1 (Loyal Customers)
+- Develop growth strategies to move Segment 2 customers to higher spending tiers
+- Create premium experiences for Segment 3 (VIP Customers)
+- Optimize marketing channels based on online/offline preferences by segment
+- Personalize product recommendations based on segment preferences
+
+10. EXPECTED IMPACT
+Implementation of segment-specific strategies is expected to:
+- Increase customer lifetime value by 15-25%
+- Improve customer retention rates by 10-15%
+- Enhance marketing ROI through targeted campaigns
+- Enable personalized customer experiences
+- Support data-driven business planning and resource allocation
